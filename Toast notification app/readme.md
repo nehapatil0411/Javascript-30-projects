@@ -7,3 +7,7 @@ Check it out and feel free to give it a ⭐ if you like it!
 
 #HTML #CSS #JavaScript #ToastNotification #WebDevelopment #FrontendDev #VanillaJS #UIUX #OpenSource 💡✨
 
+
+
+https://github.com/user-attachments/assets/90d02d25-bbce-4fef-8d05-3026c1929dc8
+
