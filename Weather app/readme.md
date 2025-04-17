@@ -19,3 +19,11 @@ CSS for styling & responsiveness 🎨
 
 🔖 #WeatherApp #JavaScriptProject #FrontendDev #HTML #CSS #OpenWeather #WeatherForecast #WebApp #BeautifulDesign #JSDev #WeatherUI
 
+
+
+
+
+
+
+https://github.com/user-attachments/assets/7ef55044-879c-4b7a-9f0d-65e43627bc89
+
