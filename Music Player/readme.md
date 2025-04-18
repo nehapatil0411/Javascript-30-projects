@@ -21,11 +21,14 @@ Hope you like it! 😊
 📁 Project Status:
 ✅ Completed and ready for use.
 
+🔖 Hashtags:
+#MusicPlayer #JavaScriptProject #HTML #CSS #WebDevelopment #FrontendProject #AudioPlayer #CodeNewbie #InteractiveUI #CreativeCoding
+🎵💻🎨🚀👨‍💻👩‍💻🧠✨
 
 🔗 Live Demo =>
 
 
-🔖 Hashtags:
-#MusicPlayer #JavaScriptProject #HTML #CSS #WebDevelopment #FrontendProject #AudioPlayer #CodeNewbie #InteractiveUI #CreativeCoding
-🎵💻🎨🚀👨‍💻👩‍💻🧠✨
+
+
+https://github.com/user-attachments/assets/5af091b7-06dc-4166-b752-90ef2a6186e9
 
