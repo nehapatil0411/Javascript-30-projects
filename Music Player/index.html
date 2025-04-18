@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.css">
+</head>
+<body>
+
+            <div class="container">
+                    <div class="music-player">
+                        <nav>
+                            <div class="circle">
+                                <i class="ri-arrow-left-s-line"></i>
+                            </div>
+                            <div class="circle">
+                                <i class="ri-align-justify"></i>
+                            </div>
+                        </nav>
+                        <img src="images/krishna.webp" alt="" class="song-img">
+                        <h1>Tum Prem ho</h1>
+                        <p>Surya Raj Kamal, Mohit Lalwani, Aishwarya Anand</p>
+
+                        <audio  id="song">
+                            <source src="media/Tum_Prem_Ho_Tum_Preet_Ho.mp3">
+                        </audio>
+
+                        <input type="range" value="0" id="progress">
+
+                     
+                        <div class="controls">
+                            <div><i class="ri-skip-back-fill"></i></div>
+                            <div onclick="playPause()"><i class="ri-play-fill" id="ctrlIcon"></i></div>
+                            <div><i class="ri-skip-forward-fill"></i></div>
+                        </div>
+                    </div>
+            </div>
+    <script src="script.js"></script>
+</body>
+</html>
