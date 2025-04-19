@@ -8,5 +8,12 @@ This little tool combines clean design with dynamic functionality — perfect fo
 
 Check it out and let me know what you think! 😊
 
+🔗 Live Demo:
+
+
+
+https://github.com/user-attachments/assets/7df09058-9f85-4b3c-9c89-65ec36cd3780
+
+
 📌 Hashtags:
 #WebDevelopment #JavaScript #CodingProject #QuoteGenerator #FrontendDev #HTML #CSS #DeveloperLife #CodeNewbie #Inspiration #MiniProject #TweetableQuotes.
