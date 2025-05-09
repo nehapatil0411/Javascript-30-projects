@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Products</h1>
+
+  <div class="product" data-name="Apple" data-price="1">
+    <p><strong>Apple</strong> - $1</p>
+    <button onclick="addToCart('Apple', 1)">Add to Cart</button>
+  </div>
+
+  <div class="product" data-name="Banana" data-price="0.5">
+    <p><strong>Banana</strong> - $0.50</p>
+    <button onclick="addToCart('Banana', 0.5)">Add to Cart</button>
+  </div>
+
+  <div class="product" data-name="Orange" data-price="0.75">
+    <p><strong>Orange</strong> - $0.75</p>
+    <button onclick="addToCart('Orange', 0.75)">Add to Cart</button>
+  </div>
+
+  <div class="cart">
+    <h2>Cart</h2>
+    <div id="cart-items"></div>
+    <p><strong>Total: $<span id="total">0.00</span></strong></p>
+  </div>
+
+  
+
+
+
+
+
+
+
+
+
+
+        
+
+    
+
+
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
