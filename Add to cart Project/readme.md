@@ -19,3 +19,8 @@ HTML | CSS | JavaScript (Vanilla)
 
 🔖 Hashtags:
 #WebDevelopment #JavaScript #FrontendDev #HTML #CSS #AddToCart #MiniProject #ShoppingCart #CodingFun #UIDesign #VanillaJS 🧑‍💻💼🛍️
+
+Live Demo =>
+
+https://github.com/user-attachments/assets/568a7ad5-de92-447e-b5ab-34f4b8800905
+
